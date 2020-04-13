@@ -3,7 +3,7 @@
 ```
 1. Respectfully approach your target 
 2. Wait for a socially acceptable time 
-3.  Ask target out on a date 
+3. Ask target out on a date 
 ```
 ```
  * Expected result: Target agrees to a date 
